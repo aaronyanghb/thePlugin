@@ -10,6 +10,6 @@ var thePlugin = {
      }
 }
 
-module.exports = echo;
+module.exports = thePlugin;
 
 
